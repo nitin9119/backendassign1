@@ -1,0 +1,20 @@
+{
+  "name": "backendassign1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "md5": "^2.3.0",
+    "mongoose": "^6.2.3",
+    "nanoid": "^3.3.1"
+  }
+}
